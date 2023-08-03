@@ -1,0 +1,5 @@
+constant file --> configuration file --> data ingestion
+
+Data Tarnsformation 
+
+constant file -> configurationfile -> data Tarnsformation -> utils file -> data transformation 
